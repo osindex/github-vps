@@ -4,7 +4,7 @@ set -e
 MODE="${1:-win11}"
 TARGET="${2:-all}"
 
-MIN_SIZE_GB=50
+MIN_SIZE_GB=32
 
 WINDOWS_DIR="windows"
 UBUNTU_DIR="ubuntu"
